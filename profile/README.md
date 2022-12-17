@@ -1,5 +1,9 @@
 ## 2022 인하대학교 컴퓨터공학과 해커톤 팀 👋
 
+#### Link
+
+web: https://oyc0401.github.io/cse_hackathon_2022
+
 <!--
 
 **Here are some ideas to get you started:**
